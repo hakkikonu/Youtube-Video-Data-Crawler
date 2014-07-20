@@ -4,9 +4,11 @@ Youtube Video Data Crawler
 This PHP class collects Youtube video data clearly and without headache
 
 Author        : Hakkı Konu <hakkikonu[at sign]gmail.com> ,
+
 Twitter       : @hakkikonu , 
 
 Github        : https://github.com/hakkikonu/ ,
+
 LinkedIn      : https://www.linkedin.com/profile/view?id=66225869 ,
 
 
@@ -26,6 +28,11 @@ Avaiable Data
 #### How to use?
 1)
 ```php
+
+//our video is http://www.youtube.com/watch?v=hUYzQaCCt2o
+//so video id is hUYzQaCCt2o
+
+$video_id = "hUYzQaCCt2o";
 
 //create a new object
 //give a youtube video id to constructor as parameter
