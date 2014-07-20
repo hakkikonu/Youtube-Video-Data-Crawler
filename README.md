@@ -29,6 +29,10 @@ Avaiable Data
 1)
 ```php
 
+//Before use class include it to in your file
+require_once 'YoutubeVideoDataCrawler.class.php';
+
+
 //our video is http://www.youtube.com/watch?v=hUYzQaCCt2o
 //so video id is hUYzQaCCt2o
 
