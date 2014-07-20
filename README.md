@@ -12,7 +12,7 @@ Github        : https://github.com/hakkikonu/ ,
 LinkedIn      : https://www.linkedin.com/profile/view?id=66225869 ,
 
 
-Avaiable Data
+#### Avaiable Data
 - Total view count
 - Publish date of video
 - Thumbnails and total thumbnail count
@@ -26,12 +26,10 @@ Avaiable Data
 - Video Title
 
 #### How to use?
-1)
+1) Set
 ```php
-
 //Before use class include it to in your file
 require_once 'YoutubeVideoDataCrawler.class.php';
-
 
 //our video is http://www.youtube.com/watch?v=hUYzQaCCt2o
 //so video id is hUYzQaCCt2o
@@ -54,6 +52,22 @@ echo "Likes:" . $PinkFloyd->likesCount() . " and Dislikes:" . $youtube->disLikes
 echo "Thumb:".$PinkFloyd->thumbnails()[0]."<br>"; //as index you can use 0 to less than thumbnailsCount()
 echo "Favorite:".$PinkFloyd->favoriteCount()."<br>";
 echo "Thumb count:".$PinkFloyd->thumbnailsCount();
+
+```
+2) Output
+
+```html
+Title:Roger Waters + David Gilmour: Comfortably Numb, Live, O2 Arena 2011
+views:10919441
+Publish Date:2011-05-15T10:04:22.000Z
+Category:Music
+Author:Pink Floyd
+Duration:498
+Description:David Gilmour joining Roger Waters on The Wall to perform 'Comfortably Numb' at London's O2, May, 2011.
+Likes:85788 and Dislikes:930
+Thumb:https://i1.ytimg.com/vi/hUYzQaCCt2o/default.jpg
+Favorite:0
+Thumb Count:7
 
 ```
 
