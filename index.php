@@ -6,7 +6,7 @@
     <body>
         <?php
         require_once 'YoutubeVideoDataCrawler.class.php';
-        $video_id = $_GET["v"];
+        $video_id = "YOUR_VIDEO_ID";
 
         if (isset($video_id)) {
           //create a new object
