@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>title</title>
+        <title>Hello :)</title>
         <meta charset="utf-8"/>
     </head>
     <body>
@@ -24,6 +24,7 @@
           echo "Likes:" . $youtube->likesCount() . " and Dislikes:" . $youtube->disLikesCount() . "<br>";
           echo "Thumb:".$youtube->thumbnails()[0]."<br>";
           echo "Favorite:".$youtube->favoriteCount()."<br>";
+          echo "Thumb Count:".$youtube->thumbnailsCount();
              
         }
         ?>
