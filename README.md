@@ -1,12 +1,13 @@
-Youtube-Video-Data-Crawler
+Youtube Video Data Crawler
 ==========================
 
-This class collects Youtube video data clearly and without headache
+This PHP class collects Youtube video data clearly and without headache
 
-Author        : Hakkı Konu <hakkikonu[at sign]gmail.com>  
-Twitter       : @hakkikonu
-Github        : https://github.com/hakkikonu/
-LinkedIn      : https://www.linkedin.com/profile/view?id=66225869
+Author        : Hakkı Konu <hakkikonu[at sign]gmail.com> ,
+Twitter       : @hakkikonu , 
+
+Github        : https://github.com/hakkikonu/ ,
+LinkedIn      : https://www.linkedin.com/profile/view?id=66225869 ,
 
 
 Avaiable Data
