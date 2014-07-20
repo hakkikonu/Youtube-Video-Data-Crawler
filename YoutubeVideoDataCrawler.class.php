@@ -68,7 +68,7 @@ class YoutubeVideoDataCrawler {
     }
 
     /**
-     * Youtube category of video. Sucs as music, education etc.
+     * Youtube category of video. Such as music, education etc.
      * @param no param
      * @return string
      */
@@ -139,7 +139,7 @@ class YoutubeVideoDataCrawler {
     }
 
     /**
-     * This function catchs all possible thumbnails, 
+     * This function catches all possible thumbnails, 
      * you can combine this function with thumbnailsCount() to prevent overflow index situation 
      * @example thumbnails()[rand(0, thumbnailsCount()-1)] : on example user get a video thumbnail randomly. As index selected random thumbnail
      * @param no param
