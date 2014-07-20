@@ -28,7 +28,7 @@ LinkedIn      : https://www.linkedin.com/profile/view?id=66225869 ,
 #### How to use?
 1) Set
 ```php
-//Before use class include it to in your file
+//Before use class include it to your file
 require_once 'YoutubeVideoDataCrawler.class.php';
 
 //our video is http://www.youtube.com/watch?v=hUYzQaCCt2o
