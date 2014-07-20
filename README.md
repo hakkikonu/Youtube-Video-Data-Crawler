@@ -23,3 +23,13 @@ Avaiable Data
 - Youtube category of video
 - Video Title
 
+#### How to use?
+1)
+```php
+
+//create a new object
+//give a youtube video id to constructor as parameter
+$youtube = new YoutubeVideoDataCrawler($video_id);
+
+```
+
