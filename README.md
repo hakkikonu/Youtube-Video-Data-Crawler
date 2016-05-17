@@ -9,7 +9,7 @@ Twitter       : @hakkikonu ,
 
 Github        : https://github.com/hakkikonu/ ,
 
-LinkedIn      : https://www.linkedin.com/profile/view?id=66225869 ,
+LinkedIn      : https://www.linkedin.com/in/hakkikonu ,
 
 
 #### Avaiable Data
